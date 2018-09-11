@@ -1,0 +1,13 @@
+{
+    "name": "silencebringer/sync-laravel-relations",
+    "description": "Syncronize model relations",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alexey",
+            "email": "silencebringer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
